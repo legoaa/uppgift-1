@@ -35,6 +35,9 @@ nav ul {
 #pregunta img {
 	max-height: 150px;
 }
+.svar {
+	text-align: justify;
+}
 
 #footerrrr img {
 	max-height: 150px;
