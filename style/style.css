@@ -2,7 +2,7 @@
 body {
 	max-width: 600px;
 	margin: 0 auto;
-	color: blueviolet;
+	color: rgb(78, 43, 110);
 	background-color: rgb(222, 192, 248);
 	padding: 10px
 
@@ -12,6 +12,16 @@ h1, h2, h3, h4
 {color: rgb(42, 10, 73);
 
 }
+nav a: link, nav a:visited{
+	
+nav a:hover, nav a:active
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+
 
 #allasheader img {
 	max-height: 200px;
