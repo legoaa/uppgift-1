@@ -1,6 +1,27 @@
 @charset "UTF-8";
 body {
 	width: 600px;
-	margin: 0 auto:
-	
+	margin: 0 auto;
+
+
+}
+#allasheader img {
+	max-height: 200px;
+
+}
+#allasheader {
+	text-align: center;
+}
+#pregunta img {
+	max-height: 150px;
+}
+
+#footerrrr img {
+	max-height: 150px;
+}
+
+	#footerrrr  {
+		text-align: center;
+
+
 }
