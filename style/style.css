@@ -1,9 +1,10 @@
 @charset "UTF-8";
 body {
-	width: 600px;
+	max-width: 600px;
 	margin: 0 auto;
 	color: blueviolet;
 	background-color: rgb(222, 192, 248);
+	padding: 10px
 
 
 }
@@ -29,6 +30,8 @@ h1, h2, h3, h4
 
 	#footerrrr  {
 		text-align: center;
+		border-top: 1px solid  rgb(42, 10, 73);
+		margin-top: 20px;
 
 
 }
