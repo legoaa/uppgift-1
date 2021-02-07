@@ -45,6 +45,11 @@ nav ul {
 main ul {
 	list-style: square;
 	text-align: justify;
+
+}
+.left
+{text-align: left;
+
 }
 #footerrrr img {
 	max-height: 150px;
