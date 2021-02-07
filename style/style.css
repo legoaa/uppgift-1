@@ -1,10 +1,14 @@
 @charset "UTF-8";
+html {
+	font-size: 16px;
+}
 body {
 	max-width: 600px;
 	margin: 0 auto;
 	color: rgb(78, 43, 110);
 	background-color: rgb(222, 192, 248);
-	padding: 10px
+	padding: 10px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 
 }
@@ -20,7 +24,7 @@ nav ul {
 	padding: 0;
 	list-style: none;
 	background-color: blueviolet;
-	color: darkblue;
+	color: rgb(26, 1, 22);
 
 }
 
@@ -38,7 +42,10 @@ nav ul {
 .svar {
 	text-align: justify;
 }
-
+main ul {
+	list-style: square;
+	text-align: justify;
+}
 #footerrrr img {
 	max-height: 150px;
 }
