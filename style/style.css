@@ -3,7 +3,8 @@ html {
 	font-size: 16px;
 }
 body {
-	max-width: 600px;
+	
+	max-height: 200;
 	margin: 0 auto;
 	color: rgb(78, 43, 110);
 	background-color: rgb(222, 192, 248);
