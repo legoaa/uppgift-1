@@ -4,7 +4,7 @@ html {
 }
 body {
 	
-	max-height: 200;
+	max-width: 600;
 	margin: 0 auto;
 	color: rgb(78, 43, 110);
 	background-color: rgb(222, 192, 248);
