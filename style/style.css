@@ -37,7 +37,7 @@ nav ul {
 #allasheader {
 	text-align: center;
 }
-#pregunta img {
+.pregunta  {
 	max-width: 600px;
 }
 .svar {
