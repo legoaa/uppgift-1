@@ -6,7 +6,7 @@ body {
 	
 	max-width: 600px;
 	margin: 0 auto;
-	color: rgb(78, 43, 110);
+	color: rgb(156, 103, 206);
 	background-color: rgb(222, 192, 248);
 	padding: 10px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -25,17 +25,27 @@ nav ul {
 	padding: 0;
 	list-style: none;
 	background-color: blueviolet;
-	color: rgb(26, 1, 22);
+	color: rgb(119, 45, 107);
+
+
 
 }
 
 
-#allasheader img {
-	max-height: 200px;
+
+
+#allasheader  {
+	background-image:url(../img/diagram-pa-vitbakgrund-nuevo.jpg) ;
+	
 
 }
-#allasheader {
+header  {
 	text-align: center;
+	font-style: italic;
+	
+	
+
+
 }
 .pregunta  {
 	max-width: 600px;
